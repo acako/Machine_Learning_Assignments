@@ -1,4 +1,4 @@
-# Graduate course in Machine Learning Assignments - Machine Learning at Ryerson University
+# Graduate course in Machine Learning - Assignments 
 
 Assignment 1: 
 
