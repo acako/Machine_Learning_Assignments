@@ -2,7 +2,7 @@
 
 This repository represents the 3 assignments done in the graduate course at Ryerson University through the Computer Science department. 
 
-Each file contains the assignment questions, my written solution and my code solution.
+Each folder contains the assignment questions, my written solution and my code solution.
 
 ### Assignment 1: 
 -Question 1: Linear Regression on k-degree polynimials. Gradient Descent and Schocastic Gradient Descent performance comparison. 
